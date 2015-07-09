@@ -476,22 +476,3 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
-
-/*-- added font --*/
-@font-face {
-  font-family: 'Time Burner';
-  src: url('../fonts/timeburner-regular.ttf');
-}
-
-.timeburner {
-  position: relative;
-  top: 1px;
-  display: inline-block;
-  font-family: 'Time Burner';
-  font-style: normal;
-  font-weight: normal;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-/*-- end added font --*/
